@@ -28,12 +28,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexussnapshotRepo</id>
-		    <url>http://15.206.127.242:8081/repository/sowmya-snapshot/</url>
+		    <url>http://15.206.127.242:8081/repository/123456-release/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusreleaseRepo</id>
-		    <url>http://15.206.127.242:8081/repository/sowmya-release//</url>
+		    <url>http://15.206.127.242:8081/repository/123456-snapshot/</url>
 		</repository>
   	</distributionManagement>
 	
